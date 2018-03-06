@@ -1,4 +1,4 @@
-# Nave
+# Space
 
 Projeto implementado na disciplina de Fundamentos de Programação da Universidade Federal do Ceará campus Quixadá.
 
