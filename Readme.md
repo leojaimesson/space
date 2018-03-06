@@ -38,8 +38,12 @@ gcc main.c personagens.c cenario.c csfml.c -lcsfml-graphics -lcsfml-audio -lcsfm
 ## Jogabilidade
 
 >W = Move a nave para cima.
+
 >S = Move a nave para baixo.
+
 >A = Move a nave para a esquerda.
+
 >S = Move a nave para a direita.
+
 >ESPAÇO = Dispara balas contra as naves inimigas.
 >K = Solta um especial se já houver algum no contador.
